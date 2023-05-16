@@ -41,7 +41,7 @@ use \Niirrty\{ArgumentException, IStringable, Type, TypeTool};
  * @property-read bool $leapYear
  * @since         v0.1.0
  */
-class DateTime extends \DateTime implements IStringable
+class DateTime extends \DateTime //implements IStringable
 {
 
 
